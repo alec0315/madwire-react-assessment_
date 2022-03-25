@@ -1,0 +1,53 @@
+body,
+html {
+  font-family: sans-serif;
+}
+
+body {
+  padding: 1rem;
+}
+
+h1,
+h2 {
+  font-size: 1.5rem;
+  margin: 0 0 1.5rem 0;
+}
+
+h2 {
+  margin-top: 3em;
+  font-size: 1.25rem;
+}
+
+/*  UsersTable */
+
+.UsersTable {
+  width: 100%;
+  max-width: 1000px;
+}
+
+/*  UserForm */
+
+.UserForm {
+  margin-bottom: 4rem;
+}
+
+.UserForm fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+
+.UserForm fieldset label {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.UserForm input {
+  padding: 0.5rem;
+  width: 100%;
+  max-width: 20rem;
+}
+
+.UserForm button {
+  padding: 0.5rem 1rem;
+}
